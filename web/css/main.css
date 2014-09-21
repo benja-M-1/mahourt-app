@@ -1,0 +1,43 @@
+/**
+ * color:
+ * white: FFFFFF
+ * grass green: 89AD52 darken: 7A9A49
+ * running route: EED678 darken: D4BF74
+ * blugreen: 528D6F darken: 497E63
+ * orange: B65702 darken: A24D01
+ */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, .navbar-brand,
+.navbar-mahourt .navbar-text {
+    font-family: 'Playball', cursive;
+}
+
+h2,
+.navbar-mahourt .navbar-text,
+.navbar-mahourt .navbar-nav a {
+    color: #B65702;
+}
+
+.navbar-mahourt .navbar-nav a:hover,
+.navbar-mahourt .navbar-nav a:focus {
+    color: #A24D01;
+}
+
+.navbar-mahourt .navbar-nav > .open > a,
+.navbar-mahourt .navbar-nav > .active > a {
+    background: #eeeeee;
+}
+
+.navbar-mahourt .navbar-brand {
+    font-size: 40px;
+    color: #89AD52;
+}
+
+.navbar-mahourt .navbar-brand:hover,
+.navbar-mahourt .navbar-brand:focus {
+    color: #7A9A49;
+}

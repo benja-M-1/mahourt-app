@@ -1,0 +1,5 @@
+mahourt_cupboard:
+    resource: "@MahourtCupboardBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
