@@ -1,5 +1,5 @@
-Mahourt
-=======
+Mahourt App
+===========
 
 The Mahourt application is built with the Symfony2 framework.
 
